@@ -63,7 +63,7 @@ I'm a **Founding Engineer and CTO** at [Builtattic](https://builtattic.com), an 
 
 ---
 
-### 🤖 [Vitruvi-AI]([https://builtattic.com](https://floorplan.builtattic.in/)) — LLM-Powered Generative AI Tool
+### 🤖 [Vitruvi-AI]([https://floorplan.builtattic.in]) — LLM-Powered Generative AI Tool
 > Production NLP inference pipeline with 20x cost reduction via proprietary model over Gemini
 
 - Built end-to-end LLM pipeline with **LangChain** and custom NLP inference on GCP

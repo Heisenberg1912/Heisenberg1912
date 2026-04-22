@@ -12,7 +12,7 @@
 
 I'm a **Founding Engineer and CTO** at [Builtattic](https://builtattic.com), an AI-powered cross-border marketplace for the AEC (Architecture, Engineering, and Construction) industry, operating across **20+ countries**. I ship production AI systems, design scalable microservice architectures, and bridge the gap between ML research and real-world deployment.
 
-- 🚀 **Currently:** Building [Vitruvi-AI](https://builtattic.com) — an LLM-powered generative AI tool with NLP inference pipelines on GCP
+- 🚀 **Currently:** Building [Vitruvi-AI]([https://builtattic.com](https://floorplan.builtattic.in/)) — an LLM-powered generative AI tool with NLP inference pipelines on GCP
 - 🧠 **Recent win:** CNN-based object detection system achieving **95% accuracy at 30+ FPS** in production
 - 🏗️ **Background:** Government ERP infrastructure at M.P. State Co-operative Consumers Federation
 - 🎓 **Education:** B.Tech in Computer Science, Medicaps University (2021–2025)
@@ -63,7 +63,7 @@ I'm a **Founding Engineer and CTO** at [Builtattic](https://builtattic.com), an 
 
 ---
 
-### 🤖 [Vitruvi-AI](https://builtattic.com) — LLM-Powered Generative AI Tool
+### 🤖 [Vitruvi-AI]([https://builtattic.com](https://floorplan.builtattic.in/)) — LLM-Powered Generative AI Tool
 > Production NLP inference pipeline with 20x cost reduction via proprietary model over Gemini
 
 - Built end-to-end LLM pipeline with **LangChain** and custom NLP inference on GCP

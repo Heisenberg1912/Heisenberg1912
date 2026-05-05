@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Founding Engineer and CTO** at [Builtattic](https://builtattic.com), an AI-powered cross-border marketplace for the AEC (Architecture, Engineering, and Construction) industry, operating across **20+ countries**. I ship production AI systems, design scalable microservice architectures, and bridge the gap between ML research and real-world deployment.
+I'm a **Founding Engineer** at [Builtattic](https://builtattic.com), an AI-powered cross-border marketplace for the AEC (Architecture, Engineering, and Construction) industry, operating across **20+ countries**. I ship production AI systems, design scalable microservice architectures, and bridge the gap between ML research and real-world deployment.
 
 - 🚀 **Currently:** Building [Vitruvi-AI](https://floorplan.builtattic.in/) — an LLM-powered generative AI tool with NLP inference pipelines on GCP
 - 🧠 **Recent win:** CNN-based object detection system achieving **95% accuracy at 30+ FPS** in production
